@@ -8,14 +8,14 @@ Inside the template folder exist a readme.md, follow the instructions to check h
 # Sessions
 
 ## Session #1
-Date: May 4th, 2018 - 07:00 PM BRT
-Host: Fatec "Arthur de Azevedo"
-Location: Mogi Mirim, São Paulo - Brazil
-Senseis: @maltempi, @leonardosibela
+Date: May 4th, 2018 - 07:00 PM BRT<br />
+Host: Fatec "Arthur de Azevedo"<br />
+Location: Mogi Mirim, São Paulo - Brazil<br />
+Senseis: @maltempi, @leonardosibela<br />
 
 ## Session #2
-Date: May 4th, 2018 - 08:00 PM BRT
-Host: Fatec "Arthur de Azevedo"
-Location: Mogi Mirim, São Paulo - Brazil
-Senseis: @maltempi, @leonardosibela
+Date: May 4th, 2018 - 08:00 PM BRT<br />
+Host: Fatec "Arthur de Azevedo"<br />
+Location: Mogi Mirim, São Paulo - Brazil<br />
+Senseis: @maltempi, @leonardosibela<br />
 
